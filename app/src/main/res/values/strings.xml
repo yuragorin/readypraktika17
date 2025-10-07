@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">gorin_var4_1</string>
+    <string name="Calculator">Геометрический калькулятор</string>
+    <string name="login">введите логин</string>
+    <string name="pass">введите пароль</string>
+    <string name="register">Регистрация</string>
+    <string name="select">Выбор фигуры</string>
+    <string name="selectfigura">Выберите фигуру</string>
+    <string name="dannie">Введите данные для расчета</string>
+    <string name="rachet">Выполнить расчет</string>
+    <string name="result">Результать вычисления</string>
+    <string name="selectfigur">название выбранной фигуры</string>
+    <string name="resultat">РЕЗУЛЬТАТ</string>
+
+
+</resources>
